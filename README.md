@@ -48,6 +48,13 @@ Wissen Akademie Full Stack Software Developer kursu kapsamında yapılmış proj
 ## 10
 ![10](https://user-images.githubusercontent.com/103080618/227788299-11c0a506-1d1d-40a2-a765-24f69a2ea563.png)
 
+## 11
+![11](https://user-images.githubusercontent.com/103080618/227788814-780ddffe-d0c9-4aed-8e32-c832243d65f1.png)
+
+## 12
+![12](https://user-images.githubusercontent.com/103080618/227788818-5aeb8b97-9ee3-4c46-82aa-abc19ecfc1e8.png)
+
+
 
 
 
