@@ -1,6 +1,4 @@
-# Membership Proje Sunumu
-
-Wissen Akademie Full Stack Software Developer kursu kapsamında yapılmış projedir.
+# Membership
 
 ## Kullanılan Teknolojiler Hakkında Özet Bilgiler
 * ASP.NET MVC Core 6.0 ile Visual Studio 2022'de yazılmıştır.
