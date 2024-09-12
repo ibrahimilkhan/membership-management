@@ -1,10 +1,9 @@
 # Membership
 
 ## Kullanılan Teknolojiler Hakkında Özet Bilgiler
-* ASP.NET MVC Core 6.0 ile Visual Studio 2022'de yazılmıştır.
-* Veri tabanı işlemlerinde Entity Framework Core - Code First yaklaşımı kullanılmıştır.
-* Proje 4 katmanlıdır: EL - DAL - BLL - UI
-* Üye şifreleri veri tabanında SHA-512 algoritmasıyla hashlenerek tutulmaktadır.
+* Framework: ASP.NET MVC Core 6.0
+* ORM: EF Core
+* Katmanlı Mimari
 
 ## Proje Hakkında Genel Bilgiler
 
